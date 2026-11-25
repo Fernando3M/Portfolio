@@ -1,4 +1,4 @@
-# Portfolio
+# Portfólio
 
 Projeto de portfólio pessoal em construção. Até agora só existe a **tela de carregamento** (loading); o restante do site ainda não foi feito.
 
